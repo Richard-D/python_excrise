@@ -1,4 +1,8 @@
 Python练习大杂烩
 创建了一个dev分支
-Creating a new branch in master
+<<<<<<< HEAD
+Creating a new branch is quick and simple
 
+=======
+Creating a new branch
+>>>>>>> featurel
