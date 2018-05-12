@@ -1,0 +1,159 @@
+[<a class="nav-login" href="https://www.douban.com/accounts/login?source=movie" rel="nofollow">登录</a>, <a class="nav-register" href="https://www.douban.com/accounts/register?source=movie" rel="nofollow">注册</a>, <a class="lnk-doubanapp" href="https://www.douban.com/doubanapp/app?channel=top-nav">下载豆瓣客户端</a>, <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&amp;direct_dl=1&amp;download=iOS">iPhone</a>, <a class="download-android" href="https://www.douban.com/doubanapp/redirect?channel=top-nav&amp;direct_dl=1&amp;download=Android">Android</a>, <a class="tip-link" href="https://www.douban.com/doubanapp/app?channel=qipao">豆瓣 5.0 全新发布</a>, <a class="tip-close" href="javascript: void 0;">×</a>, <a data-moreurl-dict='{"from":"top-nav-click-main","uid":"0"}' href="https://www.douban.com" target="_blank">豆瓣</a>, <a data-moreurl-dict='{"from":"top-nav-click-book","uid":"0"}' href="https://book.douban.com" target="_blank">读书</a>, <a data-moreurl-dict='{"from":"top-nav-click-movie","uid":"0"}' href="https://movie.douban.com">电影</a>, <a data-moreurl-dict='{"from":"top-nav-click-music","uid":"0"}' href="https://music.douban.com" target="_blank">音乐</a>, <a data-moreurl-dict='{"from":"top-nav-click-location","uid":"0"}' href="https://www.douban.com/location" target="_blank">同城</a>, <a data-moreurl-dict='{"from":"top-nav-click-group","uid":"0"}' href="https://www.douban.com/group" target="_blank">小组</a>, <a data-moreurl-dict='{"from":"top-nav-click-read","uid":"0"}' href="https://read.douban.com/?dcs=top-nav&amp;dcm=douban" target="_blank">阅读</a>, <a data-moreurl-dict='{"from":"top-nav-click-fm","uid":"0"}' href="https://douban.fm/?from_=shire_top_nav" target="_blank">FM</a>, <a data-moreurl-dict='{"from":"top-nav-click-time","uid":"0"}' href="https://time.douban.com/?dt_time_source=douban-web_top_nav" target="_blank">时间</a>, <a data-moreurl-dict='{"from":"top-nav-click-market","uid":"0"}' href="https://market.douban.com/?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank">市集</a>, <a class="bn-more" href="#more"><span>更多</span></a>, <a data-moreurl-dict='{"from":"top-nav-click-ypy","uid":"0"}' href="https://ypy.douban.com" target="_blank">豆瓣摄影</a>, <a href="https://movie.douban.com">豆瓣电影</a>, <a href="https://movie.douban.com/cinema/nowplaying/">影讯&amp;购票</a>, <a href="https://movie.douban.com/explore">选电影</a>, <a href="https://movie.douban.com/tv/">电视剧</a>, <a href="https://movie.douban.com/chart">排行榜</a>, <a href="https://movie.douban.com/tag/">分类</a>, <a href="https://movie.douban.com/review/best/">影评</a>, <a href="https://movie.douban.com/annual/2017?source=navigation">2017年度榜单</a>, <a href="https://movie.douban.com/standbyme/2017?source=navigation">2017观影报告</a>, <a class="movieannual2017" href="https://movie.douban.com/annual/2017?source=patch"></a>, <a href="https://movie.douban.com/subject/1292052/">
+                        <img alt="肖申克的救赎" class="" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480747492.jpg" width="100"/>
+                    </a>, <a class="" href="https://movie.douban.com/subject/1292052/">
+                            <span class="title">肖申克的救赎</span>
+                                    <span class="title"> / The Shawshank Redemption</span>
+                                <span class="other"> / 月黑高飞(港)  /  刺激1995(台)</span>
+                        </a>, <a href="https://movie.douban.com/subject/1291546/">
+                        <img alt="霸王别姬" class="" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910813120.jpg" width="100"/>
+                    </a>, <a class="" href="https://movie.douban.com/subject/1291546/">
+                            <span class="title">霸王别姬</span>
+                                <span class="other"> / 再见，我的妾  /  Farewell My Concubine</span>
+                        </a>, <a href="https://movie.douban.com/subject/1295644/">
+                        <img alt="这个杀手不太冷" class="" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p511118051.jpg" width="100"/>
+                    </a>, <a class="" href="https://movie.douban.com/subject/1295644/">
+                            <span class="title">这个杀手不太冷</span>
+                                    <span class="title"> / Léon</span>
+                                <span class="other"> / 杀手莱昂  /  终极追杀令(台)</span>
+                        </a>, <a href="https://movie.douban.com/subject/1292720/">
+                        <img alt="阿甘正传" class="" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p510876377.jpg" width="100"/>
+                    </a>, <a class="" href="https://movie.douban.com/subject/1292720/">
+                            <span class="title">阿甘正传</span>
+                                    <span class="title"> / Forrest Gump</span>
+                                <span class="other"> / 福雷斯特·冈普</span>
+                        </a>, <a href="https://movie.douban.com/subject/1292063/">
+                        <img alt="美丽人生" class="" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p510861873.jpg" width="100"/>
+                    </a>, <a class="" href="https://movie.douban.com/subject/1292063/">
+                            <span class="title">美丽人生</span>
+                                    <span class="title"> / La vita è bella</span>
+                                <span class="other"> / 一个快乐的传说(港)  /  Life Is Beautiful</span>
+                        </a>, <a href="https://movie.douban.com/subject/1291561/">
+                        <img alt="千与千寻" class="" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910830216.jpg" width="100"/>
+                    </a>, <a class="" href="https://movie.douban.com/subject/1291561/">
+                            <span class="title">千与千寻</span>
+                                    <span class="title"> / 千と千尋の神隠し</span>
+                                <span class="other"> / 神隐少女(台)  /  Spirited Away</span>
+                        </a>, <a href="https://movie.douban.com/subject/1295124/">
+                        <img alt="辛德勒的名单" class="" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p492406163.jpg" width="100"/>
+                    </a>, <a class="" href="https://movie.douban.com/subject/1295124/">
+                            <span class="title">辛德勒的名单</span>
+                                    <span class="title"> / Schindler's List</span>
+                                <span class="other"> / 舒特拉的名单(港)  /  辛德勒名单</span>
+                        </a>, <a href="https://movie.douban.com/subject/1292722/">
+                        <img alt="泰坦尼克号" class="" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p457760035.jpg" width="100"/>
+                    </a>, <a class="" href="https://movie.douban.com/subject/1292722/">
+                            <span class="title">泰坦尼克号</span>
+                                    <span class="title"> / Titanic</span>
+                                <span class="other"> / 铁达尼号(港 / 台)</span>
+                        </a>, <a href="https://movie.douban.com/subject/3541415/">
+                        <img alt="盗梦空间" class="" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p513344864.jpg" width="100"/>
+                    </a>, <a class="" href="https://movie.douban.com/subject/3541415/">
+                            <span class="title">盗梦空间</span>
+                                    <span class="title"> / Inception</span>
+                                <span class="other"> / 潜行凶间(港)  /  全面启动(台)</span>
+                        </a>, <a href="https://movie.douban.com/subject/2131459/">
+                        <img alt="机器人总动员" class="" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p449665982.jpg" width="100"/>
+                    </a>, <a class="" href="https://movie.douban.com/subject/2131459/">
+                            <span class="title">机器人总动员</span>
+                                    <span class="title"> / WALL·E</span>
+                                <span class="other"> / 瓦力(台)  /  太空奇兵·威E(港)</span>
+                        </a>, <a href="https://movie.douban.com/subject/1292001/">
+                        <img alt="海上钢琴师" class="" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p511146807.jpg" width="100"/>
+                    </a>, <a class="" href="https://movie.douban.com/subject/1292001/">
+                            <span class="title">海上钢琴师</span>
+                                    <span class="title"> / La leggenda del pianista sull'oceano</span>
+                                <span class="other"> / 声光伴我飞(港)  /  一九零零的传奇</span>
+                        </a>, <a href="https://movie.douban.com/subject/3793023/">
+                        <img alt="三傻大闹宝莱坞" class="" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p579729551.jpg" width="100"/>
+                    </a>, <a class="" href="https://movie.douban.com/subject/3793023/">
+                            <span class="title">三傻大闹宝莱坞</span>
+                                    <span class="title"> / 3 Idiots</span>
+                                <span class="other"> / 三个傻瓜(台)  /  作死不离3兄弟(港)</span>
+                        </a>, <a href="https://movie.douban.com/subject/3011091/">
+                        <img alt="忠犬八公的故事" class="" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p524964016.jpg" width="100"/>
+                    </a>, <a class="" href="https://movie.douban.com/subject/3011091/">
+                            <span class="title">忠犬八公的故事</span>
+                                    <span class="title"> / Hachi: A Dog's Tale</span>
+                                <span class="other"> / 忠犬小八(台)  /  秋田犬八千(港)</span>
+                        </a>, <a href="https://movie.douban.com/subject/1291549/">
+                        <img alt="放牛班的春天" class="" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910824951.jpg" width="100"/>
+                    </a>, <a class="" href="https://movie.douban.com/subject/1291549/">
+                            <span class="title">放牛班的春天</span>
+                                    <span class="title"> / Les choristes</span>
+                                <span class="other"> / 歌声伴我心(港)  /  唱诗班男孩</span>
+                        </a>, <a href="https://movie.douban.com/subject/1292213/">
+                        <img alt="大话西游之大圣娶亲" class="" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2455050536.jpg" width="100"/>
+                    </a>, <a class="" href="https://movie.douban.com/subject/1292213/">
+                            <span class="title">大话西游之大圣娶亲</span>
+                                    <span class="title"> / 西遊記大結局之仙履奇緣</span>
+                                <span class="other"> / 西游记完结篇仙履奇缘  /  齐天大圣西游记</span>
+                        </a>, <a href="https://movie.douban.com/subject/1291841/">
+                        <img alt="教父" class="" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2190556185.jpg" width="100"/>
+                    </a>, <a class="" href="https://movie.douban.com/subject/1291841/">
+                            <span class="title">教父</span>
+                                    <span class="title"> / The Godfather</span>
+                                <span class="other"> / Mario Puzo's The Godfather</span>
+                        </a>, <a href="https://movie.douban.com/subject/1291560/">
+                        <img alt="龙猫" class="" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p456668316.jpg" width="100"/>
+                    </a>, <a class="" href="https://movie.douban.com/subject/1291560/">
+                            <span class="title">龙猫</span>
+                                    <span class="title"> / となりのトトロ</span>
+                                <span class="other"> / 邻家的豆豆龙  /  隔壁的特特罗</span>
+                        </a>, <a href="https://movie.douban.com/subject/1292064/">
+                        <img alt="楚门的世界" class="" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p479682972.jpg" width="100"/>
+                    </a>, <a class="" href="https://movie.douban.com/subject/1292064/">
+                            <span class="title">楚门的世界</span>
+                                    <span class="title"> / The Truman Show</span>
+                                <span class="other"> / 真人Show(港)  /  真人戏</span>
+                        </a>, <a href="https://movie.douban.com/subject/1300267/">
+                        <img alt="乱世佳人" class="" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1963126880.jpg" width="100"/>
+                    </a>, <a class="" href="https://movie.douban.com/subject/1300267/">
+                            <span class="title">乱世佳人</span>
+                                    <span class="title"> / Gone with the Wind</span>
+                                <span class="other"> / 飘</span>
+                        </a>, <a href="https://movie.douban.com/subject/5912992/">
+                        <img alt="熔炉" class="" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1363250216.jpg" width="100"/>
+                    </a>, <a class="" href="https://movie.douban.com/subject/5912992/">
+                            <span class="title">熔炉</span>
+                                    <span class="title"> / 도가니</span>
+                                <span class="other"> / 无声呐喊(港)  /  漩涡</span>
+                        </a>, <a href="https://movie.douban.com/subject/6786002/">
+                        <img alt="触不可及" class="" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1454261925.jpg" width="100"/>
+                    </a>, <a class="" href="https://movie.douban.com/subject/6786002/">
+                            <span class="title">触不可及</span>
+                                    <span class="title"> / Intouchables</span>
+                                <span class="other"> / 闪亮人生(港)  /  逆转人生(台)</span>
+                        </a>, <a href="https://movie.douban.com/subject/1291828/">
+                        <img alt="天堂电影院" class="" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910901025.jpg" width="100"/>
+                    </a>, <a class="" href="https://movie.douban.com/subject/1291828/">
+                            <span class="title">天堂电影院</span>
+                                    <span class="title"> / Nuovo Cinema Paradiso</span>
+                                <span class="other"> / 星光伴我心(港)  /  新天堂乐园(台)</span>
+                        </a>, <a href="https://movie.douban.com/subject/1849031/">
+                        <img alt="当幸福来敲门" class="" src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1312700628.jpg" width="100"/>
+                    </a>, <a class="" href="https://movie.douban.com/subject/1849031/">
+                            <span class="title">当幸福来敲门</span>
+                                    <span class="title"> / The Pursuit of Happyness</span>
+                                <span class="other"> / 寻找快乐的故事(港)  /  追求快乐</span>
+                        </a>, <a href="https://movie.douban.com/subject/1307914/">
+                        <img alt="无间道" class="" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2233971046.jpg" width="100"/>
+                    </a>, <a class="" href="https://movie.douban.com/subject/1307914/">
+                            <span class="title">无间道</span>
+                                    <span class="title"> / 無間道</span>
+                                <span class="other"> / Infernal Affairs  /  Mou gaan dou</span>
+                        </a>, <a href="https://movie.douban.com/subject/1889243/">
+                        <img alt="星际穿越" class="" src="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2206088801.jpg" width="100"/>
+                    </a>, <a class="" href="https://movie.douban.com/subject/1889243/">
+                            <span class="title">星际穿越</span>
+                                    <span class="title"> / Interstellar</span>
+                                <span class="other"> / 星际启示录(港)  /  星际效应(台)</span>
+                        </a>, <a href="?start=25&amp;filter=">2</a>, <a href="?start=50&amp;filter=">3</a>, <a href="?start=75&amp;filter=">4</a>, <a href="?start=100&amp;filter=">5</a>, <a href="?start=125&amp;filter=">6</a>, <a href="?start=150&amp;filter=">7</a>, <a href="?start=175&amp;filter=">8</a>, <a href="?start=200&amp;filter=">9</a>, <a href="?start=225&amp;filter=">10</a>, <a href="?start=25&amp;filter=">后页&gt;</a>, <a class="entrance-link" href="https://www.douban.com/doubanapp/frodo">
+        <div class="entrance-qrcode">
+            <img alt="扫码下载豆瓣 App" height="80" src="https://img3.doubanio.com/f/movie/a02f6ed325fc52e220f299d51e730c422e2bcd16/pics/movie/douban_app_ad/qrcode.png" width="80"/>
+        </div>
+        <div class="entrance-info">
+            <span class="app-icon icon-movie"></span>
+            <span class="main-title">豆瓣</span>
+            <span class="sub-title">让好电影来找你</span>
+        </div>
+    </a>, <a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>, <a href="https://www.douban.com/about">关于豆瓣</a>, <a href="https://www.douban.com/jobs">在豆瓣工作</a>, <a href="https://www.douban.com/about?topic=contactus">联系我们</a>, <a href="https://www.douban.com/about?policy=disclaimer">免责声明</a>, <a href="https://help.douban.com/?app=movie" target="_blank">帮助中心</a>, <a href="https://www.douban.com/doubanapp/">移动应用</a>, <a href="https://www.douban.com/partner/">豆瓣广告</a>]
